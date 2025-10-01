@@ -1,4 +1,8 @@
 # Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
@@ -43,6 +47,16 @@ flowchart TD
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
+<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/02c93b4a-dcbc-46da-bab4-fe8077ad9633" />
+<img width="1920" height="1200" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/f9e27e14-30c3-4260-a341-ea5d6cda26e9" />
+<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/9e631cd6-bef8-459c-af50-c1cebc399d04" />
+
+
+<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/02d8bdf0-039e-4d3e-909c-3360159d2d96" />
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/0676235b-5cce-43b5-b7f7-f613b499fd87" />
+<img width="1920" height="1200" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/f84148df-27ff-49ec-bb85-1c6c9aa94578" />
+<img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/b5ff6e04-7099-4f44-a462-7c207f2c4d21" />
+<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/95541826-bceb-486a-adc3-8ee4293dbcf8" />
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
